@@ -4,7 +4,7 @@ export default function Nav(props) {
     return (
         <nav className={props.lightMode ? "light" : ""}>
             <div className="title">
-                <img src="/src/assets/react-icon-small.png" className="logo-nav" />
+                <img src="/react-info-site/src/assets/react-icon-small.png" className="logo-nav" />
                 <h3 className="title-nav">ReactFacts</h3>
             </div>
             <div className="toggler">
