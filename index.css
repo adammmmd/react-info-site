@@ -117,13 +117,13 @@ main {
     color: white;
     margin: 0;
     background: #282D35;
-    background-image: url(./src/assets/react-icon-large.png);
+    background-image: url("/public/assets/react-icon-large.png");
     background-repeat: no-repeat;
     background-position: right center;
 }
 
 main.light {
-    background-image: url("/src/assets/react-icon-light.png"); 
+    background-image: url("/public/assets/react-icon-light.png"); 
     background-color: white;
     color: black;    
 }
