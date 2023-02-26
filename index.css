@@ -12,6 +12,7 @@ body {
     background: #DEEBF8;
 }
 
+
 #root {
     box-shadow: 2px 2px 30px 2px rgb(173, 171, 171);
     min-width: 500px;
@@ -29,7 +30,7 @@ nav {
 }
 
 nav.light {
-    background-color: white;
+    background-color: rgb(248, 248, 248);
 }
 
 .title {
@@ -117,13 +118,13 @@ main {
     color: white;
     margin: 0;
     background: #282D35;
-    background-image: url("./assets/react-icon-large.png");
+    background-image: url("./public/assets/react-icon-large.png");
     background-repeat: no-repeat;
     background-position: right center;
 }
 
 main.light {
-    background-image: url("./assets/react-icon-light.png"); 
+    background-image: url("./public/assets/react-icon-light.png"); 
     background-color: white;
     color: black;    
 }
