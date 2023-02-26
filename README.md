@@ -2,4 +2,4 @@
 
 learn React by recreating react info site from scrimba (JSX, custom components, styling, static pages)
 
-adammmmd.github.io/react-info-site/
+https://adammmmd.github.io/react-info-site/
